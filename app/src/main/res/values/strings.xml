@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FreeCart</string>
+    <string name="products">Products</string>
+    <string name="discount">% Discount</string>
+</resources>
